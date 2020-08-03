@@ -1,5 +1,7 @@
 # CubeDel
 
+![Before and after the removal of the Cube](https://raw.githubusercontent.com/TheSignPainter98/cubedel/master/img/before-after.png)
+
 Delete the default cube in [Blender.][blender]
 Why?
 Because some day there will be Blender kb-render% tool-assisted speedruns, I'm sure of it.
