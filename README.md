@@ -6,7 +6,7 @@ Delete the default cube in [Blender.][blender]
 Why?
 Because some day there will be Blender kb-render% tool-assisted speedruns, I'm sure of it.
 
-Jk I just got annoyed at the cube.
+jk I just got annoyed at the cube.
 
 ## Usage
 
