@@ -8,6 +8,8 @@ Because some day there will be Blender kb-render% tool-assisted speedruns, I'm s
 
 jk I just got annoyed at the cube.
 
+Obviously setting a default `.blend` file which doesn't contain the Cube would be easier, but this script can remove such a strong assumption.
+
 ## Usage
 
 This script can be called from Blender, like so:
