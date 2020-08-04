@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 from bpy import context, ops
 
 def cubedel():
