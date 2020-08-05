@@ -1,8 +1,8 @@
-# CubeDel
+# Scene-Clean
 
 ![Before and after the removal of the Cube](https://raw.githubusercontent.com/TheSignPainter98/cubedel/master/img/before-after.png)
 
-Delete the default cube in [Blender.][blender]
+Delete the default gubbins in [Blender.][blender]
 Why?
 Because some day there will be Blender kb-render% tool-assisted speedruns, I'm sure of it.
 
@@ -17,11 +17,11 @@ This script can be called from Blender, like so:
 ```Python3
 import sys
 sys.path+=['.']
-import cubedel
-cubedel.cubedel()
+import scene_clean
+scene_clean.clean_scene()
 ```
 
-Or from another script by just using the latter two lines (assuming `cubedel.py` is already in the Python path).
+Or from another script by just using the latter two lines (assuming `scene_clean.py` is already in the Python path).
 
 ## License
 
